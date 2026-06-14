@@ -176,3 +176,24 @@ This project demonstrates a full-stack **AI-powered Network Operations platform*
 - Observability integration
 
 It acts as an intelligent assistant for modern IT infrastructure teams
+
+## 📸 System Screenshots
+
+### 1. Chatbot + Nautobot Integration
+Shows end-to-end IP ↔ Device resolution via Nautobot source of truth.
+
+![Chatbot Demo](/docs/screenshots/03_nautobot_chatbot_end_to_end_demo.png)
+
+---
+
+### 2. RAG Retrieval Pipeline (Qdrant)
+Displays embedding search, similarity scoring, and retrieved context chunks.
+
+![RAG Pipeline](/docs/screenshots/05_qdrant_retrieval_llm_answer.png)
+
+---
+
+### 3. LLM Inference (Ollama - qwen2.5:7b)
+Local AI model response generated via Ollama runtime.
+
+![LLM Inference](/docs/screenshots/06_ollama_qwen2_5_model_inference.png)
