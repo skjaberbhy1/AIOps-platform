@@ -1,4 +1,13 @@
-# 🚀 AIOps Multi-VM Intelligent Network Automation Platform
+# 🚀 AIOps Intelligent Network Automation Platform
+
+![AI](https://img.shields.io/badge/AI-RAG%20%2B%20LLM-blue)
+![Backend](https://img.shields.io/badge/FastAPI-Python-green)
+![Architecture](https://img.shields.io/badge/Architecture-Multi--VM-orange)
+![Nautobot](https://img.shields.io/badge/Network-Nautobot-red)
+
+> AI-powered Network Operations Platform with RAG, LLM, and Nautobot integration for real-time infrastructure intelligence.
+
+
 
 ## 👨‍💻 Project Overview
 
