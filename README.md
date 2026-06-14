@@ -181,15 +181,14 @@ This section shows the complete Retrieval-Augmented Generation (RAG) workflow in
 ![RAG Step 1](/docs/screenshots/04_rag_query_embedding_search.png)
 
 
-### Step 2: Vector Search (Qdrant) – Personal Knowledge Retrieval
+### Step 2: Retrieved Context + LLM Response
+![RAG Step 3](/docs/screenshots/05_qdrant_retrieval_llm_answer.png)
+
+### Step 3: Vector Search (Qdrant) – Personal Knowledge Retrieval
 
 Retrieves semantically similar chunks related to the user query (Jaber profile data) from the vector database.
 
 ![RAG Step 2 - Jaber Query Retrieval](/docs/screenshots/02_rag_flow.png)
-
-
-### Step 3: Retrieved Context + LLM Response
-![RAG Step 3](/docs/screenshots/05_qdrant_retrieval_llm_answer.png)
 
 
 ---
