@@ -186,10 +186,24 @@ Shows end-to-end IP ↔ Device resolution via Nautobot source of truth.
 
 ---
 
-### 2. RAG Retrieval Pipeline (Qdrant)
-Displays embedding search, similarity scoring, and retrieved context chunks.
+## 2. RAG Retrieval Pipeline (Qdrant)
 
-![RAG Pipeline](/docs/screenshots/05_qdrant_retrieval_llm_answer.png)
+This section shows the complete Retrieval-Augmented Generation (RAG) workflow including query embedding, vector search, similarity scoring, and context retrieval.
+
+### Step 1: Query + Embedding
+![RAG Step 1](/docs/screenshots/04_rag_query_embedding_search.png)
+
+
+### Step 2: Vector Search (Qdrant) – Personal Knowledge Retrieval
+
+Retrieves semantically similar chunks related to the user query (Jaber profile data) from the vector database.
+
+![RAG Step 2 - Jaber Query Retrieval](/docs/screenshots/02_rag_flow.png)
+
+
+### Step 3: Retrieved Context + LLM Response
+![RAG Step 3](/docs/screenshots/05_qdrant_retrieval_llm_answer.png)
+
 
 ---
 
