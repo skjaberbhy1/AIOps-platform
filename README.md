@@ -143,19 +143,6 @@ Final Structured Response
 
 ---
 
-## 👨‍💻 Author
-
-**Sheikh Jaber Bin Ahmed Bhuiyan**  
-DevOps & AI Infrastructure Engineer  
-
-### Expertise:
-- DevOps, AIOps & Network Automation
-- LLM + RAG Systems
-- Elasticsearch / Monitoring Systems
-- Infrastructure Engineering
-
----
-
 ## 🚀 Future Improvements
 
 - React-based Chat UI Dashboard
@@ -211,3 +198,23 @@ Retrieves semantically similar chunks related to the user query (Jaber profile d
 Local AI model response generated via Ollama runtime.
 
 ![LLM Inference](/docs/screenshots/06_ollama_qwen2_5_model_inference.png)
+
+
+---
+
+## 👨‍💻 Author
+
+# Sheikh Jaber Bin Ahmed Bhuiyan
+### DevOps & AI Infrastructure Engineer
+
+Specialized in building AI-powered infrastructure automation systems combining DevOps, LLMs, and real-time network intelligence.
+
+---
+
+## Expertise
+
+- AIOps & Intelligent Network Automation  
+- Retrieval-Augmented Generation (RAG) Systems  
+- DevOps & Cloud Infrastructure  
+- Elasticsearch & Observability Platforms  
+- Scalable System Architecture Design  
